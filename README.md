@@ -10,3 +10,11 @@
 # Edit UserFactory, DatabaseSeeder
 
 > php artisan db:seed
+
+### JWT-Auth
+
+> https://jwt-auth.readthedocs.io/en/develop/laravel-installation/
+
+# Token expire time
+
+> .env -> JWT_TTL=1440
